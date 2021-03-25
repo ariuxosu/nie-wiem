@@ -59,7 +59,11 @@ ul.topnav li.right {
             text-shadow: 1px 1px #141414;
             background-color: #FF0000;
     }
-    
+    a.gatari {
+            color: white;
+            text-shadow: 1px 1px #141414;
+            background-color: #FF00E7;
+    }
 }
 .text {
     box-shadow: 8px 8px 35px -1px rgba(0,0,0,0.54);
