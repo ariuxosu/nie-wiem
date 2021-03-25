@@ -178,6 +178,11 @@ li a:hover {
     color: white;
     text-shadow: 1px 1px #141414;
     background-color: #FF0000;
+}      
+.gatari:hover {
+    color: white;
+    text-shadow: 1px 1px #141414;
+    background-color: #FF00E7;      
 }
 /* end of social media section */
 .footer {
